@@ -6,6 +6,7 @@ public class Tdd {
         // TODO Auto-generated method stub
         Integer a = null;
         System.out.println(a == 3);
+        System.out.println("test");
     }
 
 }
